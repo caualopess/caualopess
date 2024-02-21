@@ -25,7 +25,6 @@ Bancos de dados
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Microsoft Sql Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />       
     <img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit" />   
-    <img align="center" alt="Firebase" src="https://firebase.google.com/images/social.png"  height="28px" /> 
 </div><br/><br/>
 Versionamento de código
 
