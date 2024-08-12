@@ -1,6 +1,6 @@
 
 ### Olá, eu sou o Cauã Lopes 😁
-Sou um Dev FullStack apaixonado por desenvolvimento, tendo como foco desenvolvimento Web. Minha principal linguagem de programação é o JavaScript, utilizando-a bastante com React e NextJS. Atualmente estou aprimorando minhas habilidades no Backend.
+Sou um Dev FullStack apaixonado por desenvolvimento, com foco em desenvolvimento Web. Minha principal linguagem de programação é o JavaScript, que utilizo bastante com React e NextJS. Atualmente, estou aprimorando minhas habilidades no Backend, utilizando .Net, NodeJS e SQL.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caualopes2103/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/caualopess/)
